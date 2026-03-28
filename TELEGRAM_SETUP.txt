@@ -1,0 +1,20 @@
+Telegram bot setup
+
+Telegram bot creation is not automated inside this repository.
+Each user must create their own bot with @BotFather and keep the token private.
+
+Steps:
+1. Open Telegram
+2. Start a chat with @BotFather
+3. Send /newbot
+4. Enter the bot name
+5. Enter a username that ends with bot
+6. Copy the token
+7. Paste the token into `.env`:
+
+TELEGRAM_BOT_TOKEN=YOUR_TOKEN_HERE
+
+Important:
+- never commit `.env`
+- never share the token
+- if the token leaks, revoke it in @BotFather and create a new one

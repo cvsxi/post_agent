@@ -26,13 +26,14 @@ The repository is prepared for public use:
 
 ## Quick start
 
-1. Copy `.env.example` to `.env`
-2. Add your Telegram bot token to `.env`
-3. Optional: copy `config/providers.example.json` to `config/providers.json` and fill in only the provider you want to use
-4. Edit `content/prompts/post_prompt.txt`
-5. Install dependencies
-6. Optional: download images
-7. Start the bot
+1. Create your Telegram bot with `@BotFather`
+2. Copy `.env.example` to `.env`
+3. Paste your Telegram bot token into `.env`
+4. Optional: copy `config/providers.example.json` to `config/providers.json` and fill in only the provider you want to use
+5. Edit `content/prompts/post_prompt.txt`
+6. Install dependencies
+7. Optional: download images
+8. Start the bot
 
 ```powershell
 python -m pip install -e .
@@ -47,6 +48,18 @@ python main.py
 - `data/` is created and updated at runtime
 
 None of these files should be committed to a public repository.
+
+## Telegram setup
+
+Use `@BotFather` in Telegram:
+
+1. Send `/newbot`
+2. Set a bot name
+3. Set a bot username ending in `bot`
+4. Copy the token from BotFather
+5. Put the token into `.env` as `TELEGRAM_BOT_TOKEN`
+
+Each user must create their own bot and use their own token.
 
 ## Environment variables
 
