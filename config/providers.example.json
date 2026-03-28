@@ -1,0 +1,15 @@
+{
+  "active_provider": "openai",
+  "openai": {
+    "api_key": "YOUR_OPENAI_API_KEY",
+    "model": "OPENAI_MODEL_NAME"
+  },
+  "anthropic": {
+    "api_key": "YOUR_ANTHROPIC_API_KEY",
+    "model": "ANTHROPIC_MODEL_NAME"
+  },
+  "google": {
+    "api_key": "YOUR_GEMINI_API_KEY",
+    "model": "GOOGLE_MODEL_NAME"
+  }
+}

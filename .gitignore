@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.jsonl
+.pytest_cache/
+post_agent.egg-info/
+config/providers.json
+data/*.json
+!data/.gitkeep

@@ -1,0 +1,52 @@
+{
+  "images": [
+    {
+      "file": "focused_workspace.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg/1280px-Person_writing_in_notebook_while_using_laptop_at_a_modern_workspace.jpg",
+      "credit": "Wikimedia Commons",
+      "assigned_posts": ["focus-is-expensive", "finish-what-you-start"]
+    },
+    {
+      "file": "modern_workspace.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coffee-desk-laptop-notebook_%2824244320481%29.jpg/1280px-Coffee-desk-laptop-notebook_%2824244320481%29.jpg",
+      "credit": "Wikimedia Commons",
+      "assigned_posts": ["environment-decides"]
+    },
+    {
+      "file": "reading_coffee.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Coffee%2C_doughnuts_and_book.jpg/1280px-Coffee%2C_doughnuts_and_book.jpg",
+      "credit": "Wikimedia Commons",
+      "assigned_posts": ["reading-changes-speed"]
+    },
+    {
+      "file": "open_window_book.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gabriel_Metsu_-_Woman_Reading_a_Book_by_a_Window_-_GM-105_-_Leiden_Collection.jpg/1280px-Gabriel_Metsu_-_Woman_Reading_a_Book_by_a_Window_-_GM-105_-_Leiden_Collection.jpg",
+      "credit": "Wikimedia Commons",
+      "assigned_posts": ["morning-without-phone", "solitude-without-escape"]
+    },
+    {
+      "file": "writing_desk_coffee.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Desk-laptop-notebook-pen_%2823958719819%29.jpg/1280px-Desk-laptop-notebook-pen_%2823958719819%29.jpg",
+      "credit": "Wikimedia Commons",
+      "assigned_posts": ["journal-clarifies-noise"]
+    },
+    {
+      "file": "sunrise_runner.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Silhouette_of_a_jogger_under_a_pink_sunrise.jpg/1280px-Silhouette_of_a_jogger_under_a_pink_sunrise.jpg",
+      "credit": "Wikimedia Commons",
+      "assigned_posts": ["start-with-body"]
+    },
+    {
+      "file": "notebook_phone.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg/1280px-White_work_table_with_notes%2C_smartphone_and_laptop_%28Unsplash%29.jpg",
+      "credit": "Wikimedia Commons",
+      "assigned_posts": ["calendar-tells-truth"]
+    },
+    {
+      "file": "books_by_window.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Books_on_a_window_ledge_%28Unsplash%29.jpg/1280px-Books_on_a_window_ledge_%28Unsplash%29.jpg",
+      "credit": "Wikimedia Commons",
+      "assigned_posts": ["protect-the-evening"]
+    }
+  ]
+}

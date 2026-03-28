@@ -1,0 +1,12 @@
+Write one Telegram channel post.
+
+Requirements:
+- clear title
+- concise body
+- practical tone
+- no hashtags
+- no emojis
+- no filler
+- output plain text only
+
+You can replace this file with your own prompt.

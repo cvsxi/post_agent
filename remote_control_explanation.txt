@@ -1,0 +1,19 @@
+Remote control overview
+
+This bot is designed as a local Telegram scheduler with a moderation flow.
+
+Current behavior:
+- accepts commands from one private owner chat
+- publishes approved posts to one Telegram channel
+- stores runtime state in `data/`
+
+Public-safe structure:
+- `.env` keeps Telegram and runtime values
+- `config/providers.json` keeps optional AI keys outside git
+- `content/prompts/post_prompt.txt` keeps the editable post prompt
+
+Important:
+- this repository does not ship personal data
+- this repository does not ship API keys
+- OpenAI, Claude, and Gemini are not called by default in the current runtime
+- the provider file is a clean placeholder for future automation
